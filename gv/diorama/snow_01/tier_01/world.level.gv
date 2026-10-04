@@ -1,7 +1,0 @@
-digraph CustomScriptGraph {
-    rankdir=LR;
-    //TBbalance=min;
-    //ratio=0.8;
-    node [shape=plaintext, fontsize=10];
-{ rank=source; }
-}
