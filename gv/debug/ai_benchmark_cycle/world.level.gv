@@ -1,0 +1,3286 @@
+digraph CustomScriptGraph {
+    rankdir=LR;
+    //TBbalance=min;
+    //ratio=0.8;
+    node [shape=plaintext, fontsize=10];
+    RELAY_NODE_0 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>0:RELAY_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>true</TD>
+                <TD PORT="enabled" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:enabled(bool)20</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in</B></FONT>
+                </TD>
+                <TD PORT="out" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>out</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="enable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>enable</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="disable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>disable</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="toggle" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>toggle</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    LEVEL_UNIT_NODE_2 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>2:LEVEL_UNIT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_index(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1199</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">2</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>has_out_connections(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>id(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[4AB17512BF928A8E]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>name(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">sound_node_7</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_file_path(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/hub_elements/sound_node/sound_node</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>material(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/hub_elements/sound_node/sound_node</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>pos(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0.40485305,56.532356,18.42604</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>rot(Quaternion):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0,0,0,-1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>scale(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1,1,1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>num_node_overrides(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node_overrides_offset(RelativePtr(u32)):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">.{ .offset = 0 }</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:unit(unit)78</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_3 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>3:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">flow_callback_trigger_dialogue_event</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="argument1_name" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>argument1_name(string)8C:</B></FONT>
+                </TD>
+                <TD>item_tag</TD>
+            </TR>
+            <TR>
+                <TD PORT="source" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>source(unit)4D4:</B></FONT>
+                </TD>
+                <TD>[runtime]</TD>
+            </TR>
+            <TR>
+                <TD PORT="concept" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>concept(string)98:</B></FONT>
+                </TD>
+                <TD>seen_item</TD>
+            </TR>
+            <TR>
+                <TD PORT="argument1" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>argument1(string)A4:</B></FONT>
+                </TD>
+                <TD>courtyard_calm_time</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_4 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>4:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">WwiseFlowCallbacks.wwise_set_state</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="group" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>group(string)C4:</B></FONT>
+                </TD>
+                <TD>override</TD>
+            </TR>
+            <TR>
+                <TD PORT="state" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>state(string)D0:</B></FONT>
+                </TD>
+                <TD>false</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_7 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>7:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">flow_callback_volume_system_unregister_volume</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="volume_name" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>volume_name(string)184:</B></FONT>
+                </TD>
+                <TD>damage_volume_temp_fix_1</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    LEVEL_UNIT_NODE_11 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>11:LEVEL_UNIT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_index(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1197</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">11</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>has_out_connections(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>id(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[5D0895B720706591]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>name(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">sound_node_5</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_file_path(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/hub_elements/sound_node/sound_node</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>material(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/hub_elements/sound_node/sound_node</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>pos(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">-61.256935,29.062325,-12.4835415</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>rot(Quaternion):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0,0,0,-1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>scale(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1,1,1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>num_node_overrides(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node_overrides_offset(RelativePtr(u32)):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">.{ .offset = 0 }</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:unit(unit)238</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    LEVEL_UNIT_NODE_12 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>12:LEVEL_UNIT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_index(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1196</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">12</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>has_out_connections(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>id(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[C74434A6DEFCC6F8]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>name(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">sound_node_4</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_file_path(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/hub_elements/sound_node/sound_node</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>material(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/hub_elements/sound_node/sound_node</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>pos(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">26.874512,36.832767,4.510971</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>rot(Quaternion):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0,0,0,-1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>scale(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1,1,1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>num_node_overrides(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node_overrides_offset(RelativePtr(u32)):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">.{ .offset = 0 }</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:unit(unit)240</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    DELAY_NODE_15 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>15:DELAY_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="delay" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>delay(float)2E8:</B></FONT>
+                </TD>
+                <TD>15</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in</B></FONT>
+                </TD>
+                <TD PORT="out" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>out</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    LEVEL_TRIGGER_NODE_16 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>16:LEVEL_TRIGGER_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>↓tm(Matrix4x4)↓</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#FAFAFA">
+                    <FONT FACE="Consolas">[   -0.97    0.25    0.00    0.00 ]<BR ALIGN="LEFT"/>[   -0.25   -0.97    0.00    0.00 ]<BR ALIGN="LEFT"/>[    0.00    0.00    1.00    0.00 ]<BR ALIGN="LEFT"/>[   29.82   -4.02    2.12    1.00 ]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>radius(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1.541955,1.450249,1.085717</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">16</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>actor_template(IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">static</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>shape_template(IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[1FEE10E9]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:unit(unit)2F0</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="actor" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:actor(actor)2F8</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="trigger_actor" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:trigger_actor(actor)300</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="enable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>enable</B></FONT>
+                </TD>
+                <TD PORT="touched" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>touched</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="disable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>disable</B></FONT>
+                </TD>
+                <TD PORT="untouched" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>untouched</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_17 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>17:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">flow_callback_activate_cutscene_logic</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[1]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">flow_callback_deactivate_cutscene_logic</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="event_on_skip" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>event_on_skip(string)31C:</B></FONT>
+                </TD>
+                <TD>cs_01_skip</TD>
+            </TR>
+            <TR>
+                <TD PORT="player_input_enabled" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>player_input_enabled(bool)328:</B></FONT>
+                </TD>
+                <TD>false</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[1]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[1]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    EVENT_NODE_18 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>18:EVENT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>external_event[0](IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">level_loaded</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>event_port[0](u16):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+            <TD PORT="disabled" COLSPAN="2" BGCOLOR="#69c0ab" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>↓disabled(bool)330↓</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#FAFAFA">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="enable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>enable</B></FONT>
+                </TD>
+                <TD PORT="out" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>out</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="disable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>disable</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    LEVEL_UNIT_NODE_21 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>21:LEVEL_UNIT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_index(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1198</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">21</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>has_out_connections(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>id(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[EDFA0721F186B58D]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>name(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">sound_node_6</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_file_path(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/hub_elements/sound_node/sound_node</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>material(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/hub_elements/sound_node/sound_node</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>pos(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">3.568244,-46.718155,7.342846</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>rot(Quaternion):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0,0,0,-1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>scale(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1,1,1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>num_node_overrides(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node_overrides_offset(RelativePtr(u32)):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">.{ .offset = 0 }</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:unit(unit)3E0</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    EVENT_NODE_23 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>23:EVENT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>external_event[0](IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">local_player_spawned</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>event_port[0](u16):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+            <TD PORT="disabled" COLSPAN="2" BGCOLOR="#69c0ab" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>↓disabled(bool)3F0↓</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#FAFAFA">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="enable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>enable</B></FONT>
+                </TD>
+                <TD PORT="out" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>out</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="disable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>disable</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_25 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>25:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">flow_callback_volume_system_unregister_volume</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="volume_name" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>volume_name(string)474:</B></FONT>
+                </TD>
+                <TD>damage_volume_temp_fix_2</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_27 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#FF0000">
+                    <FONT COLOR="white"><B>27:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">flow_callback_get_random_player</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="playerunit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:playerunit(unit)4D4</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    EVENT_NODE_28 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>28:EVENT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>external_event[0](IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[7B44A2B1]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>event_port[0](u16):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+            <TD PORT="disabled" COLSPAN="2" BGCOLOR="#69c0ab" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>↓disabled(bool)4D8↓</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#FAFAFA">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="enable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>enable</B></FONT>
+                </TD>
+                <TD PORT="out" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>out</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="disable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>disable</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    LEVEL_TRIGGER_NODE_31 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>31:LEVEL_TRIGGER_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>↓tm(Matrix4x4)↓</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#FAFAFA">
+                    <FONT FACE="Consolas">[   -0.97    0.25    0.00    0.00 ]<BR ALIGN="LEFT"/>[   -0.25   -0.97    0.00    0.00 ]<BR ALIGN="LEFT"/>[    0.00    0.00    1.00    0.00 ]<BR ALIGN="LEFT"/>[   20.16    2.42    2.12    1.00 ]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>radius(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">6.008611,5.755879,2.585717</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">31</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>actor_template(IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">static</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>shape_template(IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[1FEE10E9]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:unit(unit)558</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="actor" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:actor(actor)560</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="trigger_actor" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:trigger_actor(actor)568</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="enable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>enable</B></FONT>
+                </TD>
+                <TD PORT="touched" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>touched</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="disable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>disable</B></FONT>
+                </TD>
+                <TD PORT="untouched" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>untouched</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_32 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>32:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">WwiseFlowCallbacks.wwise_trigger_event</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="position" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>position(vector3)57C:</B></FONT>
+                </TD>
+                <TD>[default]</TD>
+            </TR>
+            <TR>
+                <TD PORT="name" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>name(string)588:</B></FONT>
+                </TD>
+                <TD>enemy_horde_stinger_retreat</TD>
+            </TR>
+            <TR>
+                <TD>0</TD>
+                <TD PORT="playing_id" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:playing_id(float)5A4</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD>0</TD>
+                <TD PORT="source_id" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:source_id(float)5A8</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    RELAY_NODE_33 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>33:RELAY_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>true</TD>
+                <TD PORT="enabled" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:enabled(bool)5B0</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in</B></FONT>
+                </TD>
+                <TD PORT="out" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>out</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="enable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>enable</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="disable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>disable</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="toggle" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>toggle</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    LEVEL_UNIT_NODE_34 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>34:LEVEL_UNIT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_index(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1194</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">34</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>has_out_connections(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>id(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[18A7704E7675DE3D]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>name(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">sound_node_2</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_file_path(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/hub_elements/sound_node/sound_node</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>material(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/hub_elements/sound_node/sound_node</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>pos(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">3.898171,-40.93615,24.781654</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>rot(Quaternion):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0,0,0,-1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>scale(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1,1,1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>num_node_overrides(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node_overrides_offset(RelativePtr(u32)):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">.{ .offset = 0 }</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:unit(unit)5B8</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_40 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>40:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">WwiseFlowCallbacks.wwise_trigger_event</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="name" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>name(string)6D4:</B></FONT>
+                </TD>
+                <TD>courtyard_time_running_out_while_getting_ready_for_skaven_attack</TD>
+            </TR>
+            <TR>
+                <TD>0</TD>
+                <TD PORT="playing_id" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:playing_id(float)718</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD>0</TD>
+                <TD PORT="source_id" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:source_id(float)71C</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    FLOW_SUBROUTINE_NODE_43 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>43:FLOW_SUBROUTINE_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>sub_flow_name(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[5A40718C715CB719]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>sub_flow_resource(?*anyopaque):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">[runtime]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+            <TD PORT="sub_flow_dynamic_data" COLSPAN="2" BGCOLOR="#69c0ab" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>↓sub_flow_dynamic_data(any)FFFFFFFF↓</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#FAFAFA">
+                    <FONT FACE="Consolas">[null_ref]</FONT>
+                </TD>
+            </TR>
+            <TR>
+            <TD PORT="enabled" COLSPAN="2" BGCOLOR="#69c0ab" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>↓enabled(bool)788↓</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#FAFAFA">
+                    <FONT FACE="Consolas">true</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="#[3A6D53A5]" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>#[3A6D53A5](any)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="#[E2C5F179]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[E2C5F179]</B></FONT>
+                </TD>
+                <TD PORT="#[7D014F80]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[7D014F80]</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="#[1318F5D5]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[1318F5D5]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="enable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>enable</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="disable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>disable</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_45 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>45:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">WwiseFlowCallbacks.wwise_set_state</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="group" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>group(string)7A4:</B></FONT>
+                </TD>
+                <TD>override</TD>
+            </TR>
+            <TR>
+                <TD PORT="state" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>state(string)7B0:</B></FONT>
+                </TD>
+                <TD>heroic</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_46 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>46:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">WwiseFlowCallbacks.wwise_set_state</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="group" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>group(string)7C4:</B></FONT>
+                </TD>
+                <TD>game_state</TD>
+            </TR>
+            <TR>
+                <TD PORT="state" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>state(string)7D0:</B></FONT>
+                </TD>
+                <TD>won</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_47 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>47:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">flow_callback_activate_spawning</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    DELAY_NODE_48 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>48:DELAY_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="delay" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>delay(float)7E8:</B></FONT>
+                </TD>
+                <TD>3</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in</B></FONT>
+                </TD>
+                <TD PORT="out" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>out</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    LEVEL_UNIT_NODE_49 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>49:LEVEL_UNIT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_index(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1999</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">49</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>has_out_connections(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>id(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[41EAB9CE094E35EF]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>name(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[EACBAFB6B141CC82]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_file_path(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[09666B460F8D2025]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>material(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas"> </FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>pos(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">30.10597,-4.086798,0.046944</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>rot(Quaternion):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0,0,0.991955,0.12659399</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>scale(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1,1,1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>num_node_overrides(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node_overrides_offset(RelativePtr(u32)):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">.{ .offset = 219080 }</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:unit(unit)7F0</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="#[84E9D240]" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>#[84E9D240](any)7F4:</B></FONT>
+                </TD>
+                <TD>[unknown]</TD>
+            </TR>
+            <TR>
+                <TD PORT="#[E85E895A]" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>#[E85E895A](any)814:</B></FONT>
+                </TD>
+                <TD>[unknown]</TD>
+            </TR>
+            <TR>
+                <TD PORT="#[7CA50462]" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>#[7CA50462](any)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD PORT="#[62FCFEA8]" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>#[62FCFEA8](any)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD PORT="#[0E87604D]" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>#[0E87604D](any)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="#[9E957385]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[9E957385]</B></FONT>
+                </TD>
+                <TD PORT="#[6BC3E2E6]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[6BC3E2E6]</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="lua_all_sockets_occupied" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>lua_all_sockets_occupied</B></FONT>
+                </TD>
+                <TD PORT="closed" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>closed</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="#[040B1797]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[040B1797]</B></FONT>
+                </TD>
+                <TD PORT="open" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>open</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="#[BAA82954]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[BAA82954]</B></FONT>
+                </TD>
+                <TD PORT="#[A0353FDD]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[A0353FDD]</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="#[F3143905]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[F3143905]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[20D6EE85]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[20D6EE85]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[5FC7AC2B]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[5FC7AC2B]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[5E8809DF]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[5E8809DF]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[6E3CBFE8]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[6E3CBFE8]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[071FDBBE]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[071FDBBE]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[E04A6D6A]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[E04A6D6A]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[1D019F60]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[1D019F60]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[1EC178C4]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[1EC178C4]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[50561CF4]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[50561CF4]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[EC0EE95B]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[EC0EE95B]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[FCBDD912]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[FCBDD912]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[7A4883F9]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[7A4883F9]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[CD024C41]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[CD024C41]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[99AF70D6]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[99AF70D6]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[4956A49E]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[4956A49E]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[2B01AEC6]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[2B01AEC6]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[9316EEAC]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[9316EEAC]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="#[5820CA80]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>#[5820CA80]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    LEVEL_UNIT_NODE_50 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>50:LEVEL_UNIT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_index(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1193</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">50</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>has_out_connections(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>id(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[0CCC244428717875]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>name(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">sound_node_1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_file_path(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/hub_elements/sound_node/sound_node</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>material(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/hub_elements/sound_node/sound_node</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>pos(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">-43.80516,16.28168,26.002304</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>rot(Quaternion):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0,0,0,-1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>scale(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1,1,1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>num_node_overrides(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node_overrides_offset(RelativePtr(u32)):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">.{ .offset = 0 }</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:unit(unit)840</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    EVENT_NODE_52 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>52:EVENT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>external_event[0](IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">level_start_local_player_spawned</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>event_port[0](u16):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+            <TD PORT="disabled" COLSPAN="2" BGCOLOR="#69c0ab" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>↓disabled(bool)850↓</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#FAFAFA">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="enable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>enable</B></FONT>
+                </TD>
+                <TD PORT="out" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>out</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="disable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>disable</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    RELAY_NODE_53 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>53:RELAY_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>true</TD>
+                <TD PORT="enabled" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:enabled(bool)858</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in</B></FONT>
+                </TD>
+                <TD PORT="out" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>out</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="enable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>enable</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="disable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>disable</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+            <TR>
+                <TD PORT="toggle" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>toggle</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_54 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>54:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">flow_callback_force_terror_event</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="event_type" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>event_type(string)86C:</B></FONT>
+                </TD>
+                <TD>ai_benchmark_cycle</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    EVENT_NODE_55 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>55:EVENT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>external_event[0](IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">ai_benchmark_cycle_restart</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>event_port[0](u16):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+            <TD PORT="disabled" COLSPAN="2" BGCOLOR="#69c0ab" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>↓disabled(bool)880↓</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#FAFAFA">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="enable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>enable</B></FONT>
+                </TD>
+                <TD PORT="out" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>out</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="disable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>disable</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_56 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>56:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">flow_callback_activate_cutscene_camera</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="camera" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>camera(unit)8C8:</B></FONT>
+                </TD>
+                <TD>[runtime]</TD>
+            </TR>
+            <TR>
+                <TD PORT="ingame_hud_enabled" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>ingame_hud_enabled(bool)894:</B></FONT>
+                </TD>
+                <TD>true</TD>
+            </TR>
+            <TR>
+                <TD PORT="transition" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>transition(string)898:</B></FONT>
+                </TD>
+                <TD>NONE</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    LEVEL_UNIT_NODE_58 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>58:LEVEL_UNIT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_index(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">2717</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">58</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>has_out_connections(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>id(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[1467F8406B25EF35]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>name(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">cutscene_camera_1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_file_path(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/hub_elements/cutscene_camera/cutscene_camera</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>material(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas"> </FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>pos(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">-2.145964,-7.790197,4.575108</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>rot(Quaternion):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">-0.12825307,0,0,0.9917415</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>scale(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1,1,1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>num_node_overrides(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node_overrides_offset(RelativePtr(u32)):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">.{ .offset = 219176 }</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:unit(unit)8C8</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    LEVEL_STORY_NODE_60 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>60:LEVEL_STORY_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>index(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>num_events(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="time" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>time(float)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD PORT="speed" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>speed(float)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD PORT="loop_mode" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>loop_mode(string)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD PORT="loop_start" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>loop_start(float)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD PORT="loop_end" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>loop_end(float)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD>-1</TD>
+                <TD PORT="story_id" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:story_id(integer)8D8</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+            <TD PORT="event_ids" COLSPAN="2" BGCOLOR="#69c0ab" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>↓event_ids(integer)8DC↓</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#FAFAFA">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="play" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>play</B></FONT>
+                </TD>
+                <TD PORT="played" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>played</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="stop" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>stop</B></FONT>
+                </TD>
+                <TD PORT="stopped" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>stopped</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    LINK_UNIT_NODE_61 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>61:LINK_UNIT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>child_node(IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas"> </FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>parent_node(IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas"> </FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="child_unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>child_unit(unit)8C8:</B></FONT>
+                </TD>
+                <TD>[runtime]</TD>
+            </TR>
+            <TR>
+                <TD PORT="parent_unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>parent_unit(unit)8F0:</B></FONT>
+                </TD>
+                <TD>[runtime]</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="link" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>link</B></FONT>
+                </TD>
+                <TD PORT="linked" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>linked</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="unlink" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>unlink</B></FONT>
+                </TD>
+                <TD PORT="unlinked" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>unlinked</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    MOVE_UNIT_NODE_62 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>62:MOVE_UNIT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>unit(unit)8C8:</B></FONT>
+                </TD>
+                <TD>[runtime]</TD>
+            </TR>
+            <TR>
+                <TD PORT="object" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>object(instance_id)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD PORT="delta_position" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>delta_position(vector3)8E0:</B></FONT>
+                </TD>
+                <TD>0,-12,0</TD>
+            </TR>
+            <TR>
+                <TD PORT="velocity" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>velocity(vector3)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD PORT="teleport" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>teleport(bool)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in</B></FONT>
+                </TD>
+                <TD PORT="out" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>out</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    LEVEL_UNIT_NODE_63 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>63:LEVEL_UNIT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_index(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">2722</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">63</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>has_out_connections(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>id(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[4D97A60C721BCA5A]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>name(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">whitebox_cube_1x1_01_1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>unit_file_path(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/whitebox/whitebox_cube_1x1_01</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>material(IdString64):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">units/whitebox/whitebox_cube_1x1_01</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>pos(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">-2.584591,4.696622,4</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>rot(Quaternion):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0,0,0,1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>scale(Vector3):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">1,1,1</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>num_node_overrides(u32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>node_overrides_offset(RelativePtr(u32)):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">.{ .offset = 0 }</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD>[runtime]</TD>
+                <TD PORT="unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:unit(unit)8F0</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    SET_UNIT_VISIBILITY_NODE_64 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>64:SET_UNIT_VISIBILITY_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>unit(unit)8F0:</B></FONT>
+                </TD>
+                <TD>[runtime]</TD>
+            </TR>
+            <TR>
+                <TD PORT="group" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>group(instance_id)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD PORT="visible" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>visible(bool)8F8:</B></FONT>
+                </TD>
+                <TD>false</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in</B></FONT>
+                </TD>
+                <TD PORT="out" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>out</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    ROTATE_UNIT_NODE_65 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>65:ROTATE_UNIT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="unit" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>unit(unit)8C8:</B></FONT>
+                </TD>
+                <TD>[runtime]</TD>
+            </TR>
+            <TR>
+                <TD PORT="object" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>object(instance_id)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD PORT="delta_rotation" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>delta_rotation(quaternion)900:</B></FONT>
+                </TD>
+                <TD>-0.17364818,0,0,0.98480767</TD>
+            </TR>
+            <TR>
+                <TD PORT="velocity" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>velocity(vector3)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD PORT="teleport" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>teleport(bool)FFFFFFFF:</B></FONT>
+                </TD>
+                <TD>[null_ref]</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in</B></FONT>
+                </TD>
+                <TD PORT="out" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>out</B></FONT>
+                </TD>
+            </TR>
+        </TABLE>
+    >];
+    RELAY_NODE_0:"out" -> CUSTOM_SCRIPT_NODE_56:"in_function[0]"[color="#f94144"];
+    RELAY_NODE_0:"out" -> CUSTOM_SCRIPT_NODE_40:"in_function[0]"[color="#f3722c"];
+    RELAY_NODE_0:"out" -> CUSTOM_SCRIPT_NODE_17:"in_function[0]"[color="#f8961e"];
+    RELAY_NODE_0:"out" -> LEVEL_STORY_NODE_60:"play"[color="#f9c74f"];
+    RELAY_NODE_0:"out" -> RELAY_NODE_53:"in"[color="#90be6d"];
+    RELAY_NODE_0:"out" -> LINK_UNIT_NODE_61:"link"[color="#43aa8b"];
+    DELAY_NODE_15:"out" -> LEVEL_TRIGGER_NODE_31:"enable"[color="#577590"];
+    LEVEL_TRIGGER_NODE_16:"touched" -> FLOW_SUBROUTINE_NODE_43:"#[E2C5F179]"[color="#f94144"];
+    LEVEL_TRIGGER_NODE_16:"untouched" -> FLOW_SUBROUTINE_NODE_43:"#[1318F5D5]"[color="#f3722c"];
+    EVENT_NODE_18:"out" -> LEVEL_TRIGGER_NODE_16:"disable"[color="#f8961e"];
+    EVENT_NODE_18:"out" -> CUSTOM_SCRIPT_NODE_47:"in_function[0]"[color="#f9c74f"];
+    EVENT_NODE_18:"out" -> LEVEL_TRIGGER_NODE_31:"disable"[color="#90be6d"];
+    EVENT_NODE_18:"out" -> DELAY_NODE_48:"in"[color="#43aa8b"];
+    EVENT_NODE_18:"out" -> RELAY_NODE_33:"in"[color="#577590"];
+    EVENT_NODE_28:"out" -> CUSTOM_SCRIPT_NODE_32:"in_function[0]"[color="#f94144"];
+    EVENT_NODE_28:"out" -> CUSTOM_SCRIPT_NODE_3:"in_function[0]"[color="#f3722c"];
+    LEVEL_TRIGGER_NODE_31:"touched" -> LEVEL_UNIT_NODE_49:"#[99AF70D6]"[color="#f8961e"];
+    LEVEL_TRIGGER_NODE_31:"touched" -> DELAY_NODE_15:"in"[color="#f9c74f"];
+    LEVEL_TRIGGER_NODE_31:"touched" -> LEVEL_TRIGGER_NODE_31:"disable"[color="#90be6d"];
+    FLOW_SUBROUTINE_NODE_43:"#[7D014F80]" -> CUSTOM_SCRIPT_NODE_4:"in_function[0]"[color="#43aa8b"];
+    FLOW_SUBROUTINE_NODE_43:"#[7D014F80]" -> CUSTOM_SCRIPT_NODE_46:"in_function[0]"[color="#577590"];
+    DELAY_NODE_48:"out" -> CUSTOM_SCRIPT_NODE_7:"in_function[0]"[color="#f94144"];
+    DELAY_NODE_48:"out" -> CUSTOM_SCRIPT_NODE_25:"in_function[0]"[color="#f3722c"];
+    LEVEL_UNIT_NODE_49:"closed" -> LEVEL_TRIGGER_NODE_16:"enable"[color="#f8961e"];
+    LEVEL_UNIT_NODE_49:"open" -> CUSTOM_SCRIPT_NODE_45:"in_function[0]"[color="#f9c74f"];
+    LEVEL_UNIT_NODE_49:"open" -> LEVEL_TRIGGER_NODE_16:"disable"[color="#90be6d"];
+    EVENT_NODE_52:"out" -> RELAY_NODE_0:"in"[color="#43aa8b"];
+    RELAY_NODE_53:"out" -> CUSTOM_SCRIPT_NODE_54:"in_function[0]"[color="#577590"];
+    EVENT_NODE_55:"out" -> RELAY_NODE_53:"in"[color="#f94144"];
+    LINK_UNIT_NODE_61:"linked" -> MOVE_UNIT_NODE_62:"in"[color="#f3722c"];
+    LINK_UNIT_NODE_61:"linked" -> SET_UNIT_VISIBILITY_NODE_64:"in"[color="#f8961e"];
+    MOVE_UNIT_NODE_62:"out" -> ROTATE_UNIT_NODE_65:"in"[color="#f9c74f"];
+    CUSTOM_SCRIPT_NODE_27:"playerunit" -> CUSTOM_SCRIPT_NODE_3:"source"[ style=dashed];
+    ddata_r_8C8_0 [shape=rect style=filled fillcolor="#C8E6C9" label="unit"];
+    ddata_r_8C8_0 -> CUSTOM_SCRIPT_NODE_56:"camera"[style=dashed]
+    ddata_r_8C8_1 [shape=rect style=filled fillcolor="#C8E6C9" label="unit"];
+    LEVEL_UNIT_NODE_58:"unit" -> ddata_r_8C8_1[ style=dashed]
+    ddata_r_8C8_2 [shape=rect style=filled fillcolor="#C8E6C9" label="unit"];
+    ddata_r_8C8_2 -> LINK_UNIT_NODE_61:"child_unit"[style=dashed]
+    ddata_r_8C8_3 [shape=rect style=filled fillcolor="#C8E6C9" label="unit"];
+    ddata_r_8C8_3 -> MOVE_UNIT_NODE_62:"unit"[style=dashed]
+    ddata_r_8C8_4 [shape=rect style=filled fillcolor="#C8E6C9" label="unit"];
+    ddata_r_8C8_4 -> ROTATE_UNIT_NODE_65:"unit"[style=dashed]
+    ddata_8F0 [shape=point, style=invis, width=0, height=0];
+    ddata_8F0 -> LINK_UNIT_NODE_61:"parent_unit"[style=dashed]
+    LEVEL_UNIT_NODE_63:"unit" -> ddata_8F0[dir=none style=dashed]
+    ddata_8F0 -> SET_UNIT_VISIBILITY_NODE_64:"unit"[style=dashed]
+{ rank=source; LEVEL_UNIT_NODE_2;LEVEL_UNIT_NODE_11;LEVEL_UNIT_NODE_12;EVENT_NODE_18;LEVEL_UNIT_NODE_21;EVENT_NODE_23;EVENT_NODE_28;LEVEL_UNIT_NODE_34;FLOW_SUBROUTINE_NODE_43;LEVEL_UNIT_NODE_50;EVENT_NODE_52;EVENT_NODE_55;LEVEL_UNIT_NODE_58;LEVEL_UNIT_NODE_63;}
+}

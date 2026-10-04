@@ -1,0 +1,302 @@
+digraph CustomScriptGraph {
+    rankdir=LR;
+    //TBbalance=min;
+    //ratio=0.8;
+    node [shape=plaintext, fontsize=10];
+    CUSTOM_SCRIPT_NODE_0 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>0:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">WwiseFlowCallbacks.wwise_set_state</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="group" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>group(string)2C:</B></FONT>
+                </TD>
+                <TD>winds_music</TD>
+            </TR>
+            <TR>
+                <TD PORT="state" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>state(string)38:</B></FONT>
+                </TD>
+                <TD>shadow</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_1 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>1:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">WwiseFlowCallbacks.wwise_trigger_event</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="name" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>name(string)4C:</B></FONT>
+                </TD>
+                <TD>Play_ambience_rift_shadow_world</TD>
+            </TR>
+            <TR>
+                <TD>0</TD>
+                <TD PORT="playing_id" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:playing_id(float)6C</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD>0</TD>
+                <TD PORT="source_id" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>:source_id(float)70</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    EVENT_NODE_2 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>2:EVENT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>external_event[0](IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">level_loaded</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>event_port[0](u16):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">0</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+            <TD PORT="disabled" COLSPAN="2" BGCOLOR="#69c0ab" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>↓disabled(bool)78↓</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#FAFAFA">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="enable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>enable</B></FONT>
+                </TD>
+                <TD PORT="out" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>out</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="disable" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>disable</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_3 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>3:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>↓function[0]([]u8)↓</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#FAFAFA">
+                    <FONT FACE="Consolas"><BR ALIGN="LEFT"/>local function render_static_shadows( params )<BR ALIGN="LEFT"/>    Renderer.bake_static_shadows()<BR ALIGN="LEFT"/>end<BR ALIGN="LEFT"/><BR ALIGN="LEFT"/>return render_static_shadows<BR ALIGN="LEFT"/>        <BR ALIGN="LEFT"/></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    CUSTOM_SCRIPT_NODE_4 [label=<
+        <TABLE BORDER="1" CELLBORDER="1" CELLSPACING="0" CELLPADDING="5" BGCOLOR="#FFFFFF" COLOR="#37474F">
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#37474F">
+                    <FONT COLOR="white"><B>4:CUSTOM_SCRIPT_NODE</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
+                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>ignore_unassigned(Bool):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">false</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>function_call[0]([:0]u8):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">WwiseFlowCallbacks.wwise_set_global_parameter</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                </TD>
+            </TR>
+
+            <TR>
+                <TD PORT="value" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>value(float)9C:</B></FONT>
+                </TD>
+                <TD>0</TD>
+            </TR>
+            <TR>
+                <TD PORT="parameter_name" BGCOLOR="#C8E6C9" ALIGN="LEFT">
+                    <FONT FACE="Consolas" POINT-SIZE="10"><B>parameter_name(string)A0:</B></FONT>
+                </TD>
+                <TD>rain_on_off</TD>
+            </TR>
+            <TR>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD PORT="in_function[0]" BGCOLOR="#FFF59D" ALIGN="LEFT">
+                    <FONT POINT-SIZE="10"><B>in_function[0]</B></FONT>
+                </TD>
+                <TD></TD>
+            </TR>
+        </TABLE>
+    >];
+    EVENT_NODE_2:"out" -> CUSTOM_SCRIPT_NODE_1:"in_function[0]"[color="#f94144"];
+    EVENT_NODE_2:"out" -> CUSTOM_SCRIPT_NODE_0:"in_function[0]"[color="#f3722c"];
+    EVENT_NODE_2:"out" -> CUSTOM_SCRIPT_NODE_3:"in_function[0]"[color="#f8961e"];
+    EVENT_NODE_2:"out" -> CUSTOM_SCRIPT_NODE_4:"in_function[0]"[color="#f9c74f"];
+{ rank=source; EVENT_NODE_2;}
+}
