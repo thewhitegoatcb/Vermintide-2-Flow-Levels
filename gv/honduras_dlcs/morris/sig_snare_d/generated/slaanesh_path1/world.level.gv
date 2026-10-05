@@ -11,8 +11,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -33,7 +33,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -63,7 +63,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -82,8 +82,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -104,7 +104,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -146,7 +146,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -165,8 +165,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -187,7 +187,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -229,7 +229,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -248,8 +248,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -270,7 +270,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -300,7 +300,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -322,7 +322,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -334,7 +334,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -373,8 +373,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -395,7 +395,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -437,7 +437,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -456,8 +456,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -478,7 +478,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -520,7 +520,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -539,8 +539,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -561,7 +561,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -577,7 +577,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -604,8 +604,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -626,7 +626,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -656,7 +656,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -675,8 +675,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -697,7 +697,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -709,7 +709,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -728,8 +728,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -776,7 +776,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -800,7 +800,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -829,8 +829,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -851,7 +851,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -893,7 +893,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -912,8 +912,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -934,7 +934,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -946,7 +946,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -965,8 +965,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1067,7 +1067,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -1087,8 +1087,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1109,7 +1109,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -1151,7 +1151,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1170,8 +1170,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1218,7 +1218,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -1242,7 +1242,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1271,8 +1271,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1293,7 +1293,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -1335,7 +1335,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1354,8 +1354,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1376,7 +1376,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -1394,7 +1394,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1413,8 +1413,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1461,7 +1461,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -1485,7 +1485,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1514,8 +1514,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1536,7 +1536,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -1552,7 +1552,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1579,8 +1579,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1601,7 +1601,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -1625,7 +1625,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1644,8 +1644,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1666,7 +1666,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -1696,7 +1696,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1715,8 +1715,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1817,7 +1817,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -1829,7 +1829,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1876,8 +1876,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1924,7 +1924,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -1948,7 +1948,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1977,8 +1977,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -1999,7 +1999,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -2023,7 +2023,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2042,8 +2042,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2064,7 +2064,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -2106,7 +2106,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2125,8 +2125,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2147,7 +2147,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -2189,7 +2189,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2208,8 +2208,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2230,7 +2230,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -2260,7 +2260,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2279,8 +2279,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2301,7 +2301,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -2343,7 +2343,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2362,8 +2362,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2384,7 +2384,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -2414,7 +2414,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2433,8 +2433,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2455,7 +2455,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -2497,7 +2497,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2517,7 +2517,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -2529,7 +2529,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2568,8 +2568,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2590,7 +2590,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -2632,7 +2632,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2651,8 +2651,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2673,7 +2673,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -2697,7 +2697,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2716,8 +2716,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2738,7 +2738,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -2768,7 +2768,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2790,7 +2790,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -2822,8 +2822,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2844,7 +2844,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -2868,7 +2868,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2887,8 +2887,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2909,7 +2909,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -2951,7 +2951,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2970,8 +2970,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -2992,7 +2992,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3004,7 +3004,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3023,8 +3023,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3045,7 +3045,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3057,7 +3057,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3076,8 +3076,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3098,7 +3098,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3122,7 +3122,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3141,8 +3141,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3163,7 +3163,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3181,7 +3181,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3200,8 +3200,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3222,7 +3222,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3264,7 +3264,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3283,8 +3283,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3305,7 +3305,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3329,7 +3329,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3348,8 +3348,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3396,7 +3396,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3420,7 +3420,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3449,8 +3449,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3471,7 +3471,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3483,7 +3483,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3503,7 +3503,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3535,8 +3535,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3557,7 +3557,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3599,7 +3599,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3618,8 +3618,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3666,7 +3666,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3690,7 +3690,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3719,8 +3719,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3741,7 +3741,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3783,7 +3783,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3802,8 +3802,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3824,7 +3824,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3854,7 +3854,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3873,8 +3873,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3895,7 +3895,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3937,7 +3937,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3956,8 +3956,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -3978,7 +3978,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -3990,7 +3990,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4009,8 +4009,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4031,7 +4031,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -4073,7 +4073,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4092,8 +4092,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4114,7 +4114,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -4130,7 +4130,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4157,8 +4157,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4219,7 +4219,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -4243,7 +4243,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4296,8 +4296,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4344,7 +4344,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -4368,7 +4368,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4398,7 +4398,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -4414,7 +4414,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4435,8 +4435,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4483,7 +4483,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -4507,7 +4507,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4537,7 +4537,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -4553,7 +4553,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4574,8 +4574,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4595,8 +4595,32 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>event_id[0](IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">#[F9D3F704]</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>event_id[1](IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">played</FONT>
+                </TD>
+            </TR>
+            <TR>
+                <TD BGCOLOR="#E0E0E0" ALIGN="LEFT">
+                    <FONT FACE="Consolas"><B>event_id[2](IdString32):</B></FONT>
+                </TD>
+                <TD BGCOLOR="#FAFAFA" ALIGN="LEFT">
+                    <FONT FACE="Consolas">stopped</FONT>
+                </TD>
+            </TR>
+            <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -4648,7 +4672,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4677,8 +4701,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4779,7 +4803,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -4799,8 +4823,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4821,7 +4845,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -4837,7 +4861,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4864,8 +4888,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4886,7 +4910,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -4904,7 +4928,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4923,8 +4947,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -4971,7 +4995,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -4995,7 +5019,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5025,7 +5049,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -5041,7 +5065,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5062,8 +5086,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5164,7 +5188,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -5182,7 +5206,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5235,8 +5259,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5337,7 +5361,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -5349,7 +5373,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5374,8 +5398,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5396,7 +5420,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -5426,7 +5450,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5445,8 +5469,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5467,7 +5491,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -5497,7 +5521,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5516,8 +5540,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5538,7 +5562,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -5556,7 +5580,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5576,7 +5600,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -5592,7 +5616,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5655,8 +5679,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5677,7 +5701,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -5695,7 +5719,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5714,8 +5738,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5736,7 +5760,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -5754,7 +5778,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5773,8 +5797,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5795,7 +5819,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -5813,7 +5837,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5832,8 +5856,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5854,7 +5878,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -5872,7 +5896,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5891,8 +5915,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5913,7 +5937,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -5931,7 +5955,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5951,7 +5975,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -5967,7 +5991,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -5988,8 +6012,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6010,7 +6034,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -6026,7 +6050,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6053,8 +6077,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6075,7 +6099,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -6093,7 +6117,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6112,8 +6136,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6134,7 +6158,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -6152,7 +6176,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6171,8 +6195,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6193,7 +6217,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -6211,7 +6235,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6230,8 +6254,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6278,7 +6302,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -6302,7 +6326,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6331,8 +6355,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6379,7 +6403,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -6403,7 +6427,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6432,8 +6456,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6480,7 +6504,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -6504,7 +6528,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6533,8 +6557,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6581,7 +6605,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -6605,7 +6629,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6634,8 +6658,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6656,7 +6680,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -6672,7 +6696,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6699,8 +6723,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6721,7 +6745,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -6739,7 +6763,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6758,8 +6782,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6780,7 +6804,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -6796,7 +6820,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6823,8 +6847,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6845,7 +6869,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -6869,7 +6893,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6888,8 +6912,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6910,7 +6934,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -6926,7 +6950,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6953,8 +6977,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -6975,7 +6999,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -7005,7 +7029,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -7025,7 +7049,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -7037,7 +7061,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -7058,8 +7082,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -7082,7 +7106,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -7101,8 +7125,8 @@ digraph CustomScriptGraph {
                 </TD>
             </TR>
             <TR>
-                <TD COLSPAN="2" BGCOLOR="#E0E0E0">
-                    <FONT FACE="Consolas"><B>Static Data:</B></FONT>
+                <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓STATIC DATA↓</B></FONT>
                 </TD>
             </TR>
             <TR>
@@ -7123,7 +7147,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>DYNAMIC DATA</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓DYNAMIC DATA↓</B></FONT>
                 </TD>
             </TR>
 
@@ -7153,7 +7177,7 @@ digraph CustomScriptGraph {
             </TR>
             <TR>
                 <TD COLSPAN="2" BGCOLOR="#E0E0E0" ALIGN="CENTER">
-                    <FONT FACE="Consolas" POINT-SIZE="9"><B>EVENTS</B></FONT>
+                    <FONT FACE="Consolas" POINT-SIZE="9"><B>↓EVENTS↓</B></FONT>
                 </TD>
             </TR>
             <TR>

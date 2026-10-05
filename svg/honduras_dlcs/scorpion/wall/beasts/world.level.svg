@@ -21,9 +21,9 @@
 <text xml:space="preserve" text-anchor="start" x="255.75" y="-577.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="9,-545.5 9,-568.75 415.5,-568.75 415.5,-545.5 9,-545.5"/>
 <polygon fill="none" stroke="#37474f" points="9,-545.5 9,-568.75 415.5,-568.75 415.5,-545.5 9,-545.5"/>
-<text xml:space="preserve" text-anchor="start" x="140.25" y="-554.25" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text xml:space="preserve" text-anchor="start" x="185.25" y="-554.25" font-family="Consolas" font-weight="bold" font-size="10.00">Static Data:</text>
-<text xml:space="preserve" text-anchor="start" x="248.25" y="-554.25" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="137.62" y="-554.25" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="182.62" y="-554.25" font-family="Consolas" font-weight="bold" font-size="9.00">↓STATIC DATA↓</text>
+<text xml:space="preserve" text-anchor="start" x="250.88" y="-554.25" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="9,-522.25 9,-545.5 259.5,-545.5 259.5,-522.25 9,-522.25"/>
 <polygon fill="none" stroke="#37474f" points="9,-522.25 9,-545.5 259.5,-545.5 259.5,-522.25 9,-522.25"/>
 <text xml:space="preserve" text-anchor="start" x="15" y="-531" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
@@ -46,9 +46,9 @@
 <text xml:space="preserve" text-anchor="start" x="315.75" y="-507.75" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="9,-475.75 9,-499 415.5,-499 415.5,-475.75 9,-475.75"/>
 <polygon fill="none" stroke="#37474f" points="9,-475.75 9,-499 415.5,-499 415.5,-475.75 9,-475.75"/>
-<text xml:space="preserve" text-anchor="start" x="140.25" y="-484.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text xml:space="preserve" text-anchor="start" x="185.25" y="-484.5" font-family="Consolas" font-weight="bold" font-size="9.00">DYNAMIC DATA</text>
-<text xml:space="preserve" text-anchor="start" x="248.25" y="-484.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="135" y="-484.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="180" y="-484.5" font-family="Consolas" font-weight="bold" font-size="9.00">↓DYNAMIC DATA↓</text>
+<text xml:space="preserve" text-anchor="start" x="253.5" y="-484.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#69c0ab" stroke="none" points="9,-452.5 9,-475.75 415.5,-475.75 415.5,-452.5 9,-452.5"/>
 <polygon fill="none" stroke="#37474f" points="9,-452.5 9,-475.75 415.5,-475.75 415.5,-452.5 9,-452.5"/>
 <text xml:space="preserve" text-anchor="start" x="124.5" y="-461.25" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
@@ -61,9 +61,9 @@
 <text xml:space="preserve" text-anchor="start" x="229.88" y="-438" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="9,-406 9,-429.25 415.5,-429.25 415.5,-406 9,-406"/>
 <polygon fill="none" stroke="#37474f" points="9,-406 9,-429.25 415.5,-429.25 415.5,-406 9,-406"/>
-<text xml:space="preserve" text-anchor="start" x="156" y="-414.75" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text xml:space="preserve" text-anchor="start" x="201" y="-414.75" font-family="Consolas" font-weight="bold" font-size="9.00">EVENTS</text>
-<text xml:space="preserve" text-anchor="start" x="232.5" y="-414.75" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="150.75" y="-414.75" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="195.75" y="-414.75" font-family="Consolas" font-weight="bold" font-size="9.00">↓EVENTS↓</text>
+<text xml:space="preserve" text-anchor="start" x="237.75" y="-414.75" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#fff59d" stroke="none" points="9,-382.75 9,-406 259.5,-406 259.5,-382.75 9,-382.75"/>
 <polygon fill="none" stroke="#37474f" points="9,-382.75 9,-406 259.5,-406 259.5,-382.75 9,-382.75"/>
 <text xml:space="preserve" text-anchor="start" x="15" y="-391.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
@@ -93,9 +93,9 @@
 <text xml:space="preserve" text-anchor="start" x="815.25" y="-956.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="487.88,-924.5 487.88,-947.75 1004.62,-947.75 1004.62,-924.5 487.88,-924.5"/>
 <polygon fill="none" stroke="#37474f" points="487.88,-924.5 487.88,-947.75 1004.62,-947.75 1004.62,-924.5 487.88,-924.5"/>
-<text xml:space="preserve" text-anchor="start" x="674.25" y="-933.25" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text xml:space="preserve" text-anchor="start" x="719.25" y="-933.25" font-family="Consolas" font-weight="bold" font-size="10.00">Static Data:</text>
-<text xml:space="preserve" text-anchor="start" x="782.25" y="-933.25" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="671.62" y="-933.25" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="716.62" y="-933.25" font-family="Consolas" font-weight="bold" font-size="9.00">↓STATIC DATA↓</text>
+<text xml:space="preserve" text-anchor="start" x="784.88" y="-933.25" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="487.88,-901.25 487.88,-924.5 712.12,-924.5 712.12,-901.25 487.88,-901.25"/>
 <polygon fill="none" stroke="#37474f" points="487.88,-901.25 487.88,-924.5 712.12,-924.5 712.12,-901.25 487.88,-901.25"/>
 <text xml:space="preserve" text-anchor="start" x="493.88" y="-910" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
@@ -118,9 +118,9 @@
 <text xml:space="preserve" text-anchor="start" x="962.62" y="-886.75" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="487.88,-854.75 487.88,-878 1004.62,-878 1004.62,-854.75 487.88,-854.75"/>
 <polygon fill="none" stroke="#37474f" points="487.88,-854.75 487.88,-878 1004.62,-878 1004.62,-854.75 487.88,-854.75"/>
-<text xml:space="preserve" text-anchor="start" x="674.25" y="-863.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text xml:space="preserve" text-anchor="start" x="719.25" y="-863.5" font-family="Consolas" font-weight="bold" font-size="9.00">DYNAMIC DATA</text>
-<text xml:space="preserve" text-anchor="start" x="782.25" y="-863.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="669" y="-863.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="714" y="-863.5" font-family="Consolas" font-weight="bold" font-size="9.00">↓DYNAMIC DATA↓</text>
+<text xml:space="preserve" text-anchor="start" x="787.5" y="-863.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#c8e6c9" stroke="none" points="487.88,-831.5 487.88,-854.75 712.12,-854.75 712.12,-831.5 487.88,-831.5"/>
 <polygon fill="none" stroke="#37474f" points="487.88,-831.5 487.88,-854.75 712.12,-854.75 712.12,-831.5 487.88,-831.5"/>
 <text xml:space="preserve" text-anchor="start" x="493.88" y="-840.25" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
@@ -144,9 +144,9 @@
 <text xml:space="preserve" text-anchor="start" x="862.88" y="-793.75" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="487.88,-761.75 487.88,-785 1004.62,-785 1004.62,-761.75 487.88,-761.75"/>
 <polygon fill="none" stroke="#37474f" points="487.88,-761.75 487.88,-785 1004.62,-785 1004.62,-761.75 487.88,-761.75"/>
-<text xml:space="preserve" text-anchor="start" x="690" y="-770.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text xml:space="preserve" text-anchor="start" x="735" y="-770.5" font-family="Consolas" font-weight="bold" font-size="9.00">EVENTS</text>
-<text xml:space="preserve" text-anchor="start" x="766.5" y="-770.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="684.75" y="-770.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="729.75" y="-770.5" font-family="Consolas" font-weight="bold" font-size="9.00">↓EVENTS↓</text>
+<text xml:space="preserve" text-anchor="start" x="771.75" y="-770.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#fff59d" stroke="none" points="487.88,-738.5 487.88,-761.75 712.12,-761.75 712.12,-738.5 487.88,-738.5"/>
 <polygon fill="none" stroke="#37474f" points="487.88,-738.5 487.88,-761.75 712.12,-761.75 712.12,-738.5 487.88,-738.5"/>
 <text xml:space="preserve" text-anchor="start" x="493.88" y="-747.25" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
@@ -172,9 +172,9 @@
 <text xml:space="preserve" text-anchor="start" x="815.25" y="-695.88" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="498.38,-663.88 498.38,-687.12 994.12,-687.12 994.12,-663.88 498.38,-663.88"/>
 <polygon fill="none" stroke="#37474f" points="498.38,-663.88 498.38,-687.12 994.12,-687.12 994.12,-663.88 498.38,-663.88"/>
-<text xml:space="preserve" text-anchor="start" x="674.25" y="-672.62" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text xml:space="preserve" text-anchor="start" x="719.25" y="-672.62" font-family="Consolas" font-weight="bold" font-size="10.00">Static Data:</text>
-<text xml:space="preserve" text-anchor="start" x="782.25" y="-672.62" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="671.62" y="-672.62" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="716.62" y="-672.62" font-family="Consolas" font-weight="bold" font-size="9.00">↓STATIC DATA↓</text>
+<text xml:space="preserve" text-anchor="start" x="784.88" y="-672.62" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="498.38,-640.62 498.38,-663.88 722.62,-663.88 722.62,-640.62 498.38,-640.62"/>
 <polygon fill="none" stroke="#37474f" points="498.38,-640.62 498.38,-663.88 722.62,-663.88 722.62,-640.62 498.38,-640.62"/>
 <text xml:space="preserve" text-anchor="start" x="504.38" y="-649.38" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
@@ -197,9 +197,9 @@
 <text xml:space="preserve" text-anchor="start" x="952.12" y="-626.12" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="498.38,-594.12 498.38,-617.38 994.12,-617.38 994.12,-594.12 498.38,-594.12"/>
 <polygon fill="none" stroke="#37474f" points="498.38,-594.12 498.38,-617.38 994.12,-617.38 994.12,-594.12 498.38,-594.12"/>
-<text xml:space="preserve" text-anchor="start" x="674.25" y="-602.88" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text xml:space="preserve" text-anchor="start" x="719.25" y="-602.88" font-family="Consolas" font-weight="bold" font-size="9.00">DYNAMIC DATA</text>
-<text xml:space="preserve" text-anchor="start" x="782.25" y="-602.88" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="669" y="-602.88" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="714" y="-602.88" font-family="Consolas" font-weight="bold" font-size="9.00">↓DYNAMIC DATA↓</text>
+<text xml:space="preserve" text-anchor="start" x="787.5" y="-602.88" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#c8e6c9" stroke="none" points="498.38,-570.88 498.38,-594.12 722.62,-594.12 722.62,-570.88 498.38,-570.88"/>
 <polygon fill="none" stroke="#37474f" points="498.38,-570.88 498.38,-594.12 722.62,-594.12 722.62,-570.88 498.38,-570.88"/>
 <text xml:space="preserve" text-anchor="start" x="504.38" y="-579.62" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
@@ -216,9 +216,9 @@
 <text xml:space="preserve" text-anchor="start" x="847.88" y="-555.88" font-family="Times New Roman,serif" font-size="10.00">beast</text>
 <polygon fill="#e0e0e0" stroke="none" points="498.38,-524.38 498.38,-547.62 994.12,-547.62 994.12,-524.38 498.38,-524.38"/>
 <polygon fill="none" stroke="#37474f" points="498.38,-524.38 498.38,-547.62 994.12,-547.62 994.12,-524.38 498.38,-524.38"/>
-<text xml:space="preserve" text-anchor="start" x="690" y="-533.12" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text xml:space="preserve" text-anchor="start" x="735" y="-533.12" font-family="Consolas" font-weight="bold" font-size="9.00">EVENTS</text>
-<text xml:space="preserve" text-anchor="start" x="766.5" y="-533.12" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="684.75" y="-533.12" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="729.75" y="-533.12" font-family="Consolas" font-weight="bold" font-size="9.00">↓EVENTS↓</text>
+<text xml:space="preserve" text-anchor="start" x="771.75" y="-533.12" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#fff59d" stroke="none" points="498.38,-501.12 498.38,-524.38 722.62,-524.38 722.62,-501.12 498.38,-501.12"/>
 <polygon fill="none" stroke="#37474f" points="498.38,-501.12 498.38,-524.38 722.62,-524.38 722.62,-501.12 498.38,-501.12"/>
 <text xml:space="preserve" text-anchor="start" x="504.38" y="-509.88" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
@@ -244,9 +244,9 @@
 <text xml:space="preserve" text-anchor="start" x="815.25" y="-458.88" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="469.5,-426.88 469.5,-450.12 1023,-450.12 1023,-426.88 469.5,-426.88"/>
 <polygon fill="none" stroke="#37474f" points="469.5,-426.88 469.5,-450.12 1023,-450.12 1023,-426.88 469.5,-426.88"/>
-<text xml:space="preserve" text-anchor="start" x="674.25" y="-435.62" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text xml:space="preserve" text-anchor="start" x="719.25" y="-435.62" font-family="Consolas" font-weight="bold" font-size="10.00">Static Data:</text>
-<text xml:space="preserve" text-anchor="start" x="782.25" y="-435.62" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="671.62" y="-435.62" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="716.62" y="-435.62" font-family="Consolas" font-weight="bold" font-size="9.00">↓STATIC DATA↓</text>
+<text xml:space="preserve" text-anchor="start" x="784.88" y="-435.62" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="469.5,-403.62 469.5,-426.88 693.75,-426.88 693.75,-403.62 469.5,-403.62"/>
 <polygon fill="none" stroke="#37474f" points="469.5,-403.62 469.5,-426.88 693.75,-426.88 693.75,-403.62 469.5,-403.62"/>
 <text xml:space="preserve" text-anchor="start" x="475.5" y="-412.38" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
@@ -269,9 +269,9 @@
 <text xml:space="preserve" text-anchor="start" x="981" y="-389.12" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="469.5,-357.12 469.5,-380.38 1023,-380.38 1023,-357.12 469.5,-357.12"/>
 <polygon fill="none" stroke="#37474f" points="469.5,-357.12 469.5,-380.38 1023,-380.38 1023,-357.12 469.5,-357.12"/>
-<text xml:space="preserve" text-anchor="start" x="674.25" y="-365.88" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text xml:space="preserve" text-anchor="start" x="719.25" y="-365.88" font-family="Consolas" font-weight="bold" font-size="9.00">DYNAMIC DATA</text>
-<text xml:space="preserve" text-anchor="start" x="782.25" y="-365.88" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="669" y="-365.88" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="714" y="-365.88" font-family="Consolas" font-weight="bold" font-size="9.00">↓DYNAMIC DATA↓</text>
+<text xml:space="preserve" text-anchor="start" x="787.5" y="-365.88" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#c8e6c9" stroke="none" points="469.5,-333.88 469.5,-357.12 693.75,-357.12 693.75,-333.88 469.5,-333.88"/>
 <polygon fill="none" stroke="#37474f" points="469.5,-333.88 469.5,-357.12 693.75,-357.12 693.75,-333.88 469.5,-333.88"/>
 <text xml:space="preserve" text-anchor="start" x="475.5" y="-342.62" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
@@ -288,9 +288,9 @@
 <text xml:space="preserve" text-anchor="start" x="834.38" y="-318.88" font-family="Times New Roman,serif" font-size="10.00">rain_on_off</text>
 <polygon fill="#e0e0e0" stroke="none" points="469.5,-287.38 469.5,-310.62 1023,-310.62 1023,-287.38 469.5,-287.38"/>
 <polygon fill="none" stroke="#37474f" points="469.5,-287.38 469.5,-310.62 1023,-310.62 1023,-287.38 469.5,-287.38"/>
-<text xml:space="preserve" text-anchor="start" x="690" y="-296.12" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text xml:space="preserve" text-anchor="start" x="735" y="-296.12" font-family="Consolas" font-weight="bold" font-size="9.00">EVENTS</text>
-<text xml:space="preserve" text-anchor="start" x="766.5" y="-296.12" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="684.75" y="-296.12" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="729.75" y="-296.12" font-family="Consolas" font-weight="bold" font-size="9.00">↓EVENTS↓</text>
+<text xml:space="preserve" text-anchor="start" x="771.75" y="-296.12" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#fff59d" stroke="none" points="469.5,-264.12 469.5,-287.38 693.75,-287.38 693.75,-264.12 469.5,-264.12"/>
 <polygon fill="none" stroke="#37474f" points="469.5,-264.12 469.5,-287.38 693.75,-287.38 693.75,-264.12 469.5,-264.12"/>
 <text xml:space="preserve" text-anchor="start" x="475.5" y="-272.88" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
@@ -316,9 +316,9 @@
 <text xml:space="preserve" text-anchor="start" x="815.25" y="-222" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="577.12,-190 577.12,-213.25 915.38,-213.25 915.38,-190 577.12,-190"/>
 <polygon fill="none" stroke="#37474f" points="577.12,-190 577.12,-213.25 915.38,-213.25 915.38,-190 577.12,-190"/>
-<text xml:space="preserve" text-anchor="start" x="674.25" y="-198.75" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text xml:space="preserve" text-anchor="start" x="719.25" y="-198.75" font-family="Consolas" font-weight="bold" font-size="10.00">Static Data:</text>
-<text xml:space="preserve" text-anchor="start" x="782.25" y="-198.75" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="671.62" y="-198.75" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="716.62" y="-198.75" font-family="Consolas" font-weight="bold" font-size="9.00">↓STATIC DATA↓</text>
+<text xml:space="preserve" text-anchor="start" x="784.88" y="-198.75" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="577.12,-166.75 577.12,-190 796.12,-190 796.12,-166.75 577.12,-166.75"/>
 <polygon fill="none" stroke="#37474f" points="577.12,-166.75 577.12,-190 796.12,-190 796.12,-166.75 577.12,-166.75"/>
 <text xml:space="preserve" text-anchor="start" x="583.12" y="-175.5" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
@@ -345,9 +345,9 @@
 <text xml:space="preserve" text-anchor="start" x="728.25" y="-59" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#e0e0e0" stroke="none" points="577.12,-28.25 577.12,-51.5 915.38,-51.5 915.38,-28.25 577.12,-28.25"/>
 <polygon fill="none" stroke="#37474f" points="577.12,-28.25 577.12,-51.5 915.38,-51.5 915.38,-28.25 577.12,-28.25"/>
-<text xml:space="preserve" text-anchor="start" x="690" y="-37" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
-<text xml:space="preserve" text-anchor="start" x="735" y="-37" font-family="Consolas" font-weight="bold" font-size="9.00">EVENTS</text>
-<text xml:space="preserve" text-anchor="start" x="766.5" y="-37" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="684.75" y="-37" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
+<text xml:space="preserve" text-anchor="start" x="729.75" y="-37" font-family="Consolas" font-weight="bold" font-size="9.00">↓EVENTS↓</text>
+<text xml:space="preserve" text-anchor="start" x="771.75" y="-37" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
 <polygon fill="#fff59d" stroke="none" points="577.12,-5 577.12,-28.25 796.12,-28.25 796.12,-5 577.12,-5"/>
 <polygon fill="none" stroke="#37474f" points="577.12,-5 577.12,-28.25 796.12,-28.25 796.12,-5 577.12,-5"/>
 <text xml:space="preserve" text-anchor="start" x="583.12" y="-13.75" font-family="Times New Roman,serif" font-size="10.00"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text>
